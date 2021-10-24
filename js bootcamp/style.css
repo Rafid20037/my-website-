@@ -1,0 +1,73 @@
+section{
+    height: 650px;
+}
+p{
+    padding-bottom: 50px;
+}
+h1{
+    font-size: 60px;
+    color: rgb(236, 75, 117);  
+}
+h2{
+    font-size: 40px;
+    padding-top: 60px;
+}
+
+
+/* Button Style */
+.button{
+    text-decoration: none;
+    background-color: rgb(236, 75, 117);
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+img{
+    width: 100%;
+}
+
+.half{
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+}
+
+.first{
+    background-image: url(header-bg.png);
+}
+.bio{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.second{
+    background-image: url(biography-bg.png);
+    margin-bottom: 30px;
+}
+.mid{
+   text-align: center;
+}
+.work{
+    width: 27%;
+    float: left;
+    margin: 3%;
+    padding-top: 50px;
+}
+.client{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+.box{
+    background-color:hotpink ;
+    border-radius: 25px;
+    vertical-align: middle;
+    padding-top: 30px;
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+}
